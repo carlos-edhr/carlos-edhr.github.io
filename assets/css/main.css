@@ -2485,6 +2485,11 @@ table.alt {
   border-collapse: separate;
 }
 
+.center2 {
+  margin: 0 auto;
+  width: 80%;
+}
+
 table.alt tbody tr td {
   border: solid 1px #fff;
   border-left-width: 0;
@@ -4128,4 +4133,8 @@ body.is-mobile.landing .wrapper.style4 {
 
 body.is-mobile.landing #footer {
   background-color: #1d242a;
+}
+
+.resume {
+  border-radius: 50%;
 }
